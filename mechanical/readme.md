@@ -8,5 +8,18 @@
   * Общая сборка корпуса (`.a3d`).
   * Детали корпуса для печати/изготовления (`.m3d`).
   * Фурнитура (модели винтов, тактовых кнопок).
-* 📁 **[drawings](./drawings/)** — чертежи в формате `.cdw`.
+* 📁 **[images](./images/)** — скриншоты готовых 3D-моделей и деталей корпуса.
+* 📁 **[drawings](./drawings/)** — чертежи деталей и сборочные единицы в формате `.cdw`.
 * 📄 **[hv-test-stand-pcb.step](./hv-test-stand-pcb.step)** — 3D-модель печатной платы (STEP), импортированная для сопряжения и контроля зазоров в общей сборке.
+
+---
+
+## 3D-визуализация корпуса прибора
+
+<p align="center">
+  <img src="/mechanical/images/case.png" width="85%" alt="Общая сборка корпуса стенда"/>
+  <br/><br/>
+  <img src="/mechanical/images/case_top.png" width="85%" alt="Верхняя крышка корпуса (Top Cover)"/>
+  <br/><br/>
+  <img src="/mechanical/images/case_bot.png" width="85%" alt="Основание корпуса (Bottom Base)"/>
+</p>
